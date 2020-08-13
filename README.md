@@ -2,7 +2,7 @@
 Hello, My real name is **Kevin**
 <br/>I live in **Jakarta, Indonesia**
 <br/>My hometown is in **Padang**
-<br/>My Favorite game = Old game, Like Space Harrier, Divine Kids, Sonic The Hedgehog, Super Mario Bros, and others
+<br/>My Favorite game = **Old game**, Like **Space Harrier**, **Divine Kids**, **Sonic The Hedgehog**, **Super Mario Bros**, **and others**
 <br/>My Discord = GuckTubeYT#5000
 <br/>My Youtube = GuckTube YT
 <br/>
