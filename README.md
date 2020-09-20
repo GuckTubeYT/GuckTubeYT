@@ -10,4 +10,4 @@ Hello, My real name is **Kevin**
 - 🌱 I’m currently learning C#, VB.Net and Node JS
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucktubeyt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
