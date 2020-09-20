@@ -8,6 +8,3 @@ Hello, My real name is **Kevin**
 <br/>
 - 🔭 I’m currently working on C#, VB.Net and Node JS
 - 🌱 I’m currently learning C#, VB.Net and Node JS
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucktubeyt&layout=compact)
