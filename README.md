@@ -11,3 +11,6 @@ Hello, My real name is **Kevin**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucktubeyt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gucktubeyt)](https://github.com/anuraghazra/github-readme-stats)
