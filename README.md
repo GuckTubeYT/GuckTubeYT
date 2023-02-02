@@ -6,7 +6,5 @@ Hello, My real name is **Muhammad Kevin**
 <br/>My Discord = GuckTubeYT#3123
 <br/>My Youtube = GuckTube YT
 <br/>
-- I’m currently working on C#, C++ and Node JS
-- I’m currently learning C#, C++ and Node JS
-### Feel Free to Donate me <br/>
-Donate me without Money (just Clicking Ads) = https://adsafelink.com/Yidw4L016
+- I’m currently working on C, C++ and Node JS
+- I’m currently learning C, C++ and Node JS
